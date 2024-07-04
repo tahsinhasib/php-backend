@@ -21,7 +21,7 @@
         <div class="links-div">
             <a href="insert.php">Insert</a><br>
             <a href="controllers/showhandler.php">Show</a><br>
-            <a href="update.php">Update</a><br>
+            <a href="controllers/updatehandler.php">Update</a><br>
             <a href="delete.php">Delete</a><br>
             <a href="search.php">Search</a><br>
         </div>
